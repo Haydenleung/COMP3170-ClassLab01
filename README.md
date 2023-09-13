@@ -1,2 +1,2 @@
 # COMP3170-ClassLab01
-Created with CodeSandbox
+An example portfolio site
